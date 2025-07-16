@@ -7,7 +7,8 @@ jobs:
   play:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v4 # This line is updated for better compatibility
       - name: "Update Chess Game"
         uses: timburgan/chess-in-readme@main
         with:
