@@ -1,16 +1,26 @@
-name: Chess Game
+name: Generate Snake Animation
+
 on:
-  issue_comment:
-    types: [created]
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight
   workflow_dispatch:
+
 jobs:
-  play:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4 # This line is updated for better compatibility
-      - name: "Update Chess Game"
-        uses: timburgan/chess-in-readme@main
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
-          CHESS_MOVE: ${{ github.event.comment.body }}
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
