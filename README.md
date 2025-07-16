@@ -16,17 +16,13 @@
 ### <p align="center">Interactive Zone</p>
 
 <table width="100%">
-  <tr_valign="top">
+  <tr valign="top">
     <td width="50%">
       <h3 align="center">Interactive Tic-Tac-Toe Game</h3>
-      <p align="center">Play Tic-Tac-Toe against me! Comment your move (e.g., `A1`, `B2`) in [this issue](https://github.com/Ashx111/Ashx111/issues/1), and the board will update.
-
-🧠 Current Board:
-</a>.</p>
+      <p align="center">Play Tic-Tac-Toe against me! Comment your move (e.g., `A1`, `B2`) in <a href="https://github.com/Ashx111/Ashx111/issues/1">this issue</a>, and the board will update in real-time.</p>
       <div align="center">
-        <!-- THIS IS THE WORKING CHESS BOARD IMAGE -->
-        <a href="https://github.com/Ashx111/Ashx111/issues/1">
-          <img src="https://raw.githubusercontent.com/Ashx111/Ashx111/main/chess/board.svg" alt="Chess Board">
+        <a href="https://github.com/Ashx111/Ashx111/blob/main/board.md" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Current%20Board-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Current Board">
         </a>
       </div>
     </td>
