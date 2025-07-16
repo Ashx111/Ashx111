@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6dWZvZGNma2lqY2l6dnhuN2tlbjV2MDI2dTRuY3l6a2Y0djVwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTkyfMWB32gU5wI/giphy.gif" width="100%">
+  <!-- THIS IS THE NEW, WORKING GIF LINK -->
+  <img src="https://raw.githubusercontent.com/MishManners/MishManners/master/resources/gifs/header.gif" width="100%">
 </div>
 
 <h1 align="center">ASHIRVAD SINGH</h1>
@@ -59,15 +60,16 @@
 
 ### <p align="center">Interactive GitHub Game</p>
 <p align="center">
-  Here's a more unique and interactive element for your profile. Instead of the classic snake game, try out this interactive Chess game played via GitHub issues!
+  A chess game played via GitHub issues! Click the board to open an issue and make your first move.
 </p>
 <p align="center">
-  <a href="https://github.com/Ashx111/Ashx111/issues/new?title=Chess%3A%20e4&body=Just%20a%20test%20move%20to%20get%20started!%0AYou%20can%20make%20your%20move%20by%20changing%20the%20title%20of%20this%20issue.">
-    <img src="https://github.com/timburgan/timburgan/blob/main/board.svg" alt="Chess Game">
+  <!-- THIS IS THE NEW, CORRECTED CHESS LINK -->
+  <a href="https://github.com/Ashx111/Ashx111/issues/new?title=Chess%3A%20e4&body=My%20first%20move!">
+    <img src="https://raw.githubusercontent.com/Ashx111/Ashx111/main/board.svg" alt="Chess Game">
   </a>
 </p>
 <p align="center">
-  <i>Click the board to make a move. The board will update automatically.</i>
+  <i>Click the board to make a move. The board will update automatically after a few moments.</i>
 </p>
 
 ---
