@@ -18,17 +18,16 @@
 <table width="100%">
   <tr valign="top">
     <td width="50%">
-      <h3 align="center">Interactive Tic-Tac-Toe Game</h3>
-      <p align="center">Play Tic-Tac-Toe against me! Comment your move (e.g., `A1`, `B2`) in <a href="https://github.com/Ashx111/Ashx111/issues/1">this issue</a>, and the board will update in real-time.</p>
+      <h3 align="center">Matrix Name GIF</h3>
+      <p align="center">A custom Matrix rain GIF with my name.</p>
       <div align="center">
-        <a href="https://github.com/Ashx111/Ashx111/blob/main/board.md" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Current%20Board-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Current Board">
-        </a>
+        <!-- YOUR CUSTOM RED MATRIX GIF -->
+        <img src="https://i.imgur.com/vHqjAFJ.gif" alt="Matrix Name GIF">
       </div>
     </td>
     <td width="50%">
       <h3 align="center">Contribution Snake Game</h3>
-      <p align="center">Watch my contributions get eaten by the snake!</p>
+      <p align="center">My contributions powering an animation.</p>
       <div align="center">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake-dark.svg" />
