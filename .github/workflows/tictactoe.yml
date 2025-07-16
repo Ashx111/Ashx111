@@ -1,0 +1,27 @@
+name: Tic-Tac-Toe
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  play-tictactoe:
+    if: github.event.issue.title == 'Tic-Tac-Toe Game'
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install requirements
+        run: |
+          pip install -r requirements.txt || echo "No requirements.txt found"
+
+      - name: Run Tic-Tac-Toe logic
+        run: python tictactoe.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
