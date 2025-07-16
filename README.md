@@ -13,6 +13,36 @@
 
 ---
 
+### <p align="center">Interactive Zone</p>
+
+<table width="100%">
+  <tr_valign="top">
+    <td width="50%">
+      <h3 align="center">Interactive Chess Game</h3>
+      <p align="center">Play chess against me! Comment your move in <a href="https://github.com/Ashx111/Ashx111/issues/1">Issue #1</a>.</p>
+      <div align="center">
+        <!-- THIS IS THE WORKING CHESS BOARD IMAGE -->
+        <a href="https://github.com/Ashx111/Ashx111/issues/1">
+          <img src="https://raw.githubusercontent.com/Ashx111/Ashx111/main/chess/board.svg" alt="Chess Board">
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Contribution Snake Game</h3>
+      <p align="center">Watch my contributions get eaten by the snake!</p>
+      <div align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake.svg" />
+          <img alt="snake" src="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake.svg" />
+        </picture>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### <p align="center">Professional Summary</p>
 <p align="center">Seeking a challenging role in Data Science and AI engineering that leverages cutting-edge technologies to drive innovation and solve complex problems. Passionate about developing intelligent systems and contributing to the advancement of technology in a dynamic and collaborative environment.</p>
 
@@ -27,17 +57,6 @@
   <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
 </p>
-
----
-
-### <p align="center">Contribution Snake Game</p>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake.svg" />
-  </picture>
-</div>
 
 ---
 
@@ -80,17 +99,4 @@
 ### <p align="center">Contribution Graph</p>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashx111&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
-</div>```
-4.  Scroll down and click "**Commit changes**".
-
-### **Final Step: Activate the Game**
-
-The image for the snake game won't appear instantly. We need to run the new action one time to generate it.
-
-1.  Go to the **"Actions"** tab in your repository.
-2.  On the left, click on the new workflow: **"Generate Snake Animation"**.
-3.  Click the **"Run workflow"** button, then click the green **"Run workflow"** button in the dropdown that appears.
-
-Wait for 1-2 minutes. The action will run, create a new branch called `output`, and save the snake animation images there. Once it finishes with a green checkmark, **go to your profile page [https://github.com/Ashx111](https://github.com/Ashx111) and refresh.**
-
-The snake animation will now be there. This time, it will work. My apologies again for the runaround. Your profile is now set up with a stable, working, and futuristic animation.
+</div>
