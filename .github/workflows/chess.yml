@@ -1,0 +1,17 @@
+name: Chess Readme
+
+on:
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Chess Readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/chess-readme@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          issue_number: 1 # We'll create issue #1 for our game
