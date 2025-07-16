@@ -1,0 +1,15 @@
+name: Chess Game
+on:
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: "Update Chess Game"
+        uses: timburgan/chess-in-readme@main
+        with:
+          CHESS_MOVE: ${{ github.event.comment.body }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
