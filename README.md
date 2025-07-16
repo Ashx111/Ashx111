@@ -18,8 +18,11 @@
 <table width="100%">
   <tr_valign="top">
     <td width="50%">
-      <h3 align="center">Interactive Chess Game</h3>
-      <p align="center">Play chess against me! Comment your move in <a href="https://github.com/Ashx111/Ashx111/issues/1">Issue #1</a>.</p>
+      <h3 align="center">Interactive Tic-Tac-Toe Game</h3>
+      <p align="center">Play Tic-Tac-Toe against me! Comment your move (e.g., `A1`, `B2`) in [this issue](https://github.com/Ashx111/Ashx111/issues/1), and the board will update.
+
+🧠 Current Board:
+</a>.</p>
       <div align="center">
         <!-- THIS IS THE WORKING CHESS BOARD IMAGE -->
         <a href="https://github.com/Ashx111/Ashx111/issues/1">
