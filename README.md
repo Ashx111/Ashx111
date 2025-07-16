@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- THIS IS THE NEW, WORKING GIF LINK -->
   <img src="https://raw.githubusercontent.com/MishManners/MishManners/master/resources/gifs/header.gif" width="100%">
 </div>
 
@@ -31,6 +30,17 @@
 
 ---
 
+### <p align="center">Contribution Snake Game</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake.svg" />
+  </picture>
+</div>
+
+---
+
 ### <p align="center">Projects & Research</p>
 <details>
 <summary><b>Virtual Try-On Web Extension for E-Commerce</b></summary>
@@ -58,22 +68,6 @@
 
 ---
 
-### <p align="center">Interactive GitHub Game</p>
-<p align="center">
-  A chess game played via GitHub issues! Click the board to open an issue and make your first move.
-</p>
-<p align="center">
-  <!-- THIS IS THE NEW, CORRECTED CHESS LINK -->
-  <a href="https://github.com/Ashx111/Ashx111/issues/new?title=Chess%3A%20e4&body=My%20first%20move!">
-    <img src="https://raw.githubusercontent.com/Ashx111/Ashx111/main/board.svg" alt="Chess Game">
-  </a>
-</p>
-<p align="center">
-  <i>Click the board to make a move. The board will update automatically after a few moments.</i>
-</p>
-
----
-
 ### <p align="center">GitHub Statistics</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashx111&show_icons=true&theme=radical" alt="Ashirvad's GitHub Stats">
@@ -86,4 +80,17 @@
 ### <p align="center">Contribution Graph</p>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashx111&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
-</div>
+</div>```
+4.  Scroll down and click "**Commit changes**".
+
+### **Final Step: Activate the Game**
+
+The image for the snake game won't appear instantly. We need to run the new action one time to generate it.
+
+1.  Go to the **"Actions"** tab in your repository.
+2.  On the left, click on the new workflow: **"Generate Snake Animation"**.
+3.  Click the **"Run workflow"** button, then click the green **"Run workflow"** button in the dropdown that appears.
+
+Wait for 1-2 minutes. The action will run, create a new branch called `output`, and save the snake animation images there. Once it finishes with a green checkmark, **go to your profile page [https://github.com/Ashx111](https://github.com/Ashx111) and refresh.**
+
+The snake animation will now be there. This time, it will work. My apologies again for the runaround. Your profile is now set up with a stable, working, and futuristic animation.
