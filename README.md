@@ -13,17 +13,16 @@
 
 ---
 
-### <p align="center">Interactive Zone</p>
+### <p align="center">Live Zone</p>
 
 <table width="100%">
   <tr valign="top">
     <td width="50%">
-      <h3 align="center">Interactive Tic-Tac-Toe Game</h3>
-      <p align="center">Play Tic-Tac-Toe against me! Comment your move (e.g., `A1`, `B2`) in <a href="https://github.com/Ashx111/Ashx111/issues/1">this issue</a>, and the board will update in real-time.</p>
+      <h3 align="center">Custom Animation</h3>
+      <p align="center">A custom 3D parallax rain animation built with Python, featuring letters from my name.</p>
       <div align="center">
-        <a href="https://github.com/Ashx111/Ashx111/blob/main/board.md" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Current%20Board-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Current Board">
-        </a>
+        <!-- This link assumes you put your GIF inside an 'assets' folder -->
+        <img src="assets/matrix.gif" alt="Custom Animation">
       </div>
     </td>
     <td width="50%">
