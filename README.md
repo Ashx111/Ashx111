@@ -17,7 +17,7 @@
 ███████║ ██║ ██║ ╚████║ ╚██████╔╝ ██║  ██║
 </code></pre>
 <h2 style="font-family: 'Roboto', sans-serif; color: #FF4444; font-size: 24px; margin: 10px 0;">
-  <i>🔥 Data Science & AI Engineer 🔥</i>
+  <i>🔥 AI & ML Engineer 🔥</i>
 </h2>
 </div>
 
@@ -84,50 +84,85 @@ Seeking a challenging role in Data Science and AI engineering that leverages cut
 </h2>
 </div>
 
-<div style="background: linear-gradient(135deg, #1a1a1a, #2d1b1b); padding: 20px; border-radius: 15px; margin: 20px 0; border: 2px solid #FF0000;">
+<div align="center">
 
-### <span style="color: #FF4444; font-family: 'Roboto', sans-serif; font-size: 20px;">🔍 Virtual Try-On Web Extension for E-Commerce</span>
-**🔗 [GitHub Repository](https://github.com/Ashx111/VTON_WebExtension)**
+### <img src="https://img.shields.io/badge/🔍_Virtual_Try--On_Web_Extension_for_E--Commerce-8B0000?style=for-the-badge&logo=javascript&logoColor=white" alt="VTON Project">
+<a href="https://github.com/Ashx111/VTON_WebExtension" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_VIEW_PROJECT-DC143C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-<p style="font-family: 'Arial', sans-serif; color: #CCCCCC; font-size: 16px; line-height: 1.6;">
+<details>
+<summary></summary>
+<br>
+<p align="left">
 Developed a browser extension for Flipkart enabling users to virtually try on clothes and accessories. Built with Flask & Gradio, integrated models IDM-VTON, FitDit, Leffa, and Any2Any TryOn. Authored a research paper benchmarking quality, performance, and cost for scalable retail deployment.
 </p>
+</details>
 
 ---
 
-### <span style="color: #FF4444; font-family: 'Roboto', sans-serif; font-size: 20px;">🤖 AI-Powered Personal Assistant (SONIA)</span>
-**🔗 [GitHub Repository](https://github.com/Ashx111/Sonia)**
+### <img src="https://img.shields.io/badge/🤖_AI--Powered_Personal_Assistant_(SONIA)-B22222?style=for-the-badge&logo=openai&logoColor=white" alt="SONIA Project">
+<a href="https://github.com/Ashx111/Sonia" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_VIEW_PROJECT-FF4444?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-<p style="font-family: 'Arial', sans-serif; color: #CCCCCC; font-size: 16px; line-height: 1.6;">
+<details>
+<summary></summary>
+<br>
+<p align="left">
 Created an AI assistant leveraging generative AI for soft skill enhancement through real-time voice interaction. Integrated STT & TTS for seamless communication, designed to help users improve their interpersonal skills through natural conversation.
 </p>
+</details>
 
 ---
 
-### <span style="color: #FF4444; font-family: 'Roboto', sans-serif; font-size: 20px;">🩺 Medical AI Agent Development (SwaasthaAI)</span>
-**🔗 [GitHub Repository](https://github.com/Ashx111/SwaasthaAI)**
+### <img src="https://img.shields.io/badge/🩺_Medical_AI_Agent_Development_(SwaasthaAI)-DC143C?style=for-the-badge&logo=health&logoColor=white" alt="SwaasthaAI Project">
+<a href="https://github.com/Ashx111/SwaasthaAI" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_VIEW_PROJECT-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-<p style="font-family: 'Arial', sans-serif; color: #CCCCCC; font-size: 16px; line-height: 1.6;">
-Built a comprehensive Medical AI Agent that diagnoses diseases from symptoms and provides remedies across multiple medical disciplines: Allopathy, Ayurveda, Homeopathy, and Naturopathy. Features intelligent symptom analysis and personalized treatment recommendations.
+<details>
+<summary></summary>
+<br>
+<p align="left">
+<strong>SwaasthaAI</strong> is a sophisticated, dual-module AI system designed to provide personalized health and wellness guidance. Developed in August 2024, it leverages state-of-the-art AI agentic frameworks—<strong>CrewAI</strong> and <strong>LangGraph</strong>—to offer tailored support for both preliminary medical inquiry and fitness enhancement.<br><br>
+
+Whether you're seeking to understand potential health concerns based on your symptoms or looking to start a new fitness journey, SwaasthaAI provides a structured, AI-driven approach to wellness.<br><br>
+
+<strong>✨ Core Vision</strong><br>
+The goal of SwaasthaAI is to make personalized health information more accessible. It achieves this through two distinct, specialized AI agents:<br>
+1. <strong>🧑‍⚕️ The Medical AI Agent Crew:</strong> For users experiencing symptoms who want to explore potential conditions and treatment options across multiple medical disciplines.<br>
+2. <strong>💪 The Fitness AI Coach:</strong> For users who are generally healthy and want to improve their physical fitness. It creates, monitors, and adapts workout and nutrition plans.
 </p>
+</details>
 
 ---
 
-### <span style="color: #FF4444; font-family: 'Roboto', sans-serif; font-size: 20px;">🖼️ Multimodal RAG Development</span>
-**🔗 [GitHub Repository](https://github.com/Ashx111/MultiModalRAG)**
+### <img src="https://img.shields.io/badge/🖼️_Multimodal_RAG_Development-B22222?style=for-the-badge&logo=tensorflow&logoColor=white" alt="MultiModal RAG Project">
+<a href="https://github.com/Ashx111/MultiModalRAG" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_VIEW_PROJECT-FF4444?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-<p style="font-family: 'Arial', sans-serif; color: #CCCCCC; font-size: 16px; line-height: 1.6;">
+<details>
+<summary></summary>
+<br>
+<p align="left">
 Developed a sophisticated Retrieval-Augmented Generation system for context and image-based retrieval using open-source LLMs. Enhanced answer relevance through multimodal understanding and advanced retrieval techniques.
 </p>
+</details>
 
 ---
 
-### <span style="color: #FF4444; font-family: 'Roboto', sans-serif; font-size: 20px;">📄 Research Publications</span>
+### <img src="https://img.shields.io/badge/📄_Research_Publications-8B0000?style=for-the-badge&logo=academia&logoColor=white" alt="Research Publications">
 
-<ul style="font-family: 'Arial', sans-serif; color: #CCCCCC; font-size: 16px; line-height: 1.6;">
+<details>
+<summary></summary>
+<br>
+<ul align="left">
   <li><strong>Comparative Evaluation and Prediction of Exoplanets Using Machine Learning Methods</strong></li>
   <li><strong>Adaptive Multi-Fidelity Hyperparameter Optimization in Large Language Models</strong></li>
 </ul>
+</details>
 
 </div>
 
@@ -135,12 +170,12 @@ Developed a sophisticated Retrieval-Augmented Generation system for context and 
 
 <div align="center">
 <h2 style="font-family: 'Orbitron', monospace; color: #FF0000; font-size: 24px; text-shadow: 0 0 10px #FF0000;">
-  🐍 LIVE CONTRIBUTION GRAPH
+  🐍 RED SNAKE DEVOURING CONTRIBUTIONS
 </h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake-red.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake-red.svg" />
+  <img alt="red snake eating contributions" src="https://raw.githubusercontent.com/Ashx111/Ashx111/output/snake-red.svg" />
 </picture>
 </div>
 
@@ -184,11 +219,8 @@ Developed a sophisticated Retrieval-Augmented Generation system for context and 
 <p style="font-family: 'Orbitron', monospace; color: #FF0000; font-size: 18px; text-shadow: 0 0 10px #FF0000;">
   ⚡ "Code is poetry written in logic" ⚡
 </p>
-<p style="font-family: 'Arial', sans-serif; color: #CCCCCC; font-size: 14px;">
-  Building the future, one algorithm at a time 🚀
-</p>
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=&fontSize=0&animation=twinkling" alt="Footer Wave" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,21,22,23,24&height=100&section=footer&text=&fontSize=0&animation=twinkling" alt="Red Footer Wave" width="100%">
 </div>
